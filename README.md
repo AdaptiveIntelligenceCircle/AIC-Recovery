@@ -72,6 +72,7 @@ The repository is currently in the design and prototype phase.
 This is one of the most crucial layers for the sustainable survival of AIC/HMN amidst political pressure and control vacuums during the Founder's military service.
 
 **License**: GPLv3.0 with Ethical Use Addendum
+
 **Part of the AIC ecosystem**: [Adaptive Intelligence Circle](https://github.com/AdaptiveIntelligenceCircle)
 
 **Maintained by**: Nguyen Duc Tri (Founder & Architect)
